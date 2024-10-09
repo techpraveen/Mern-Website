@@ -5,7 +5,7 @@ export const Footer = ()=>{
        
         <section className="footer-section">
             <div className="footer">
-                <p>All Rights Reserverd @Praveen 2024</p>
+                <p>All Rights Reserverd @Hanu Tomar 2024</p>
             </div>
         </section>
        
